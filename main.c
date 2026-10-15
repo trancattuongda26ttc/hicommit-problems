@@ -2,7 +2,6 @@
 
 int main() {
     int d, v, phi;
-	printf("gia hang va khoang cach: ");
     scanf("%d%d", &d, &v);
 
     if (d <= 0 || v < 0)
@@ -17,7 +16,7 @@ int main() {
         else
             phi = 40000;
 
-        printf("phi %d", phi);
+        printf("%d", phi);
     }
 
     return 0;
