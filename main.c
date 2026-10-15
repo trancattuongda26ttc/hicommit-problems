@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main() {
   int t;
-  printf ("nhap so");
   scanf ("%d", &t);
   if (t<16){
       printf("lanh" );
