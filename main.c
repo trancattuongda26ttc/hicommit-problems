@@ -3,15 +3,15 @@ int main() {
   int t;
   scanf ("%d", &t);
   if (t<16){
-      printf("lanh" );
+      printf("LANH" );
 	  }
 	  else if (t<26){
-    	printf("mat");
+    	printf("MAT");
 		}
 		else if (t<35){
-		printf("nong");
+		printf("NONG");
 		}
 		else {
-			printf("rat nong");}
+			printf("RAT NONG");}
   return 0;
 }
