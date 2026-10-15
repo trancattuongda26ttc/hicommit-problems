@@ -6,7 +6,7 @@ int main() {
 
     if (t < 15) {
         printf("LANH");
-    } else if (t <= 25) {
+    } else if (t < 25) {
         printf("MAT");
     } else if (t < 35) {
         printf("NONG");
