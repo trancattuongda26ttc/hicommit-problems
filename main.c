@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  int n;
-  scanf("%d", n);
-  switch(n){
+  int xeploai;
+  scanf("%d", &xeploai);
+  switch(xeploai) {
     case 1: 
       printf("XEP_LOAI_XUAT_XAC");
       break;
